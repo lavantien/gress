@@ -1,3 +1,2 @@
 # gress
-An opensource progress management tool.
-Tech: Spring Boot/MyBatis, MySQL, ReactJS/Axios/Redux, Docker/Kubernetes, IBM Cloud.
+An opensource progress management tool. Tech: Go/RabbitMQ, PostgreSQL, ReactJS/Axios/Redux, Docker/Kubernetes, IBM Cloud.
